@@ -3,4 +3,6 @@
 
  the arrow keys to slide numbers around and merge tiles of the same value while totaling up the score.
 
-![2048-preview](https://user-images.githubusercontent.com/78777681/163065518-e4588997-1dde-45b7-a9a6-a7dafcbdf672.png)
+![Image](https://github.com/user-attachments/assets/a4cb4938-99f0-4b63-a476-5e70452c2efb)
+
+![Image](https://github.com/user-attachments/assets/572fe983-ac7e-44cf-a00c-5baf2342333d)
